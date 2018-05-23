@@ -17,7 +17,6 @@ ActiveRecord::Schema.define(version: 20180522053116) do
     t.string "title"
     t.string "editor"
     t.text   "content"
-    t.string "password"
   end
 
 end
